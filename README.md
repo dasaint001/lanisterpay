@@ -1,0 +1,2 @@
+# lanisterpay
+Lanister Payment Configuration
